@@ -53,7 +53,7 @@
     <Compile Include="Models\Account.cs" />
     <Compile Include="Models\AccountingTransaction.cs" />
     <Compile Include="Models\Entry.cs" />
-    <Compile Include="ThinksLikeAccountance.cs" />
+    <Compile Include="ThinkLikeAccountant.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Choose>

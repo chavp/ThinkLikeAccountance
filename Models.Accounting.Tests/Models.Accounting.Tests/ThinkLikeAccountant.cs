@@ -7,7 +7,7 @@ using Models.Accounting.Tests.Models;
 namespace Models.Accounting.Tests
 {
     [TestClass]
-    public class ThinksLikeAccountance
+    public class ThinkLikeAccountant
     {
         List<Account> acctList = new List<Account>();
         // รหัสบัญชี: http://www.pw.ac.th/emedia/media/tech/accounting1/lesson4.php
